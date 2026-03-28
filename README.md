@@ -47,19 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Aryyaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryyl\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryyl\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryyl\&theme=tokyo-night)
-
----
 
 ## 📫 Connect With Me
 
