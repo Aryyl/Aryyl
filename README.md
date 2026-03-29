@@ -1,6 +1,6 @@
 # Hi, I'm Aryyaman Bora 👋
 
-🎓 B.Tech Computer Science @ DUIET (Expected 2028)
+🎓 B.Tech Computer Science @ DUIET 
 💻 Flutter Developer | React Developer | Firebase Enthusiast
 🚀 Interested in scalable apps, real-time systems, and intelligent dashboards
 
