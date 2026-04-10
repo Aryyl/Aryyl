@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 * Building cross-platform apps using **Flutter + Firebase**
 * Developing responsive web apps with **React + Tailwind**
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Languages
 
